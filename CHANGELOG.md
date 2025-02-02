@@ -1,5 +1,18 @@
 # Changelog
 
+## [21.28.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.27.1...v21.28.0) (2025-02-02)
+
+
+### Features
+
+* Improve integration of various Enbrighten devices ([#8703](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8703)) ([5f64f0e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/5f64f0e088cfe040c8ad70a504ec2990f34cb5e1))
+* Improvements for Inovelli devices ([#8700](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8700)) ([959b96e](https://github.com/Koenkk/zigbee-herdsman-converters/commit/959b96e1cc593e8ebf5cae3c7e689c2474a511be))
+
+
+### Bug Fixes
+
+* Fix enum mapping for Namron Edge Thermostat ([#8709](https://github.com/Koenkk/zigbee-herdsman-converters/issues/8709)) ([71a88c9](https://github.com/Koenkk/zigbee-herdsman-converters/commit/71a88c9572c2c477be29b40eaeccdfb73e6d2656))
+
 ## [21.27.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v21.27.0...v21.27.1) (2025-02-01)
 
 
